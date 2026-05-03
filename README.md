@@ -205,7 +205,7 @@
 1. リポジトリをクローンします:
 ```bash
 git clone https://github.com/Ardyn5473/annotation_tool.git
-cd minicar-annotation-tool
+cd annotation_tool
 ```
 
 2. 必要なパッケージをインストールします:
